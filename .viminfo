@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1685566072,,"wq!"
+|2,0,1686008768,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,26 @@
 # Registers:
 
 # File marks:
-'0  1  1  /alx-pre_course/0x01-git/.gitignore
-|4,48,1,1,1685566072,"/alx-pre_course/0x01-git/.gitignore"
-'1  1  0  /alx-pre_course/.gitignore
-|4,49,1,0,1685565761,"/alx-pre_course/.gitignore"
+'0  1  0  ~/.git/MERGE_MSG
+|4,48,1,0,1686008768,"~/.git/MERGE_MSG"
+'1  1  1  /alx-pre_course/0x01-git/.gitignore
+|4,49,1,1,1685566072,"/alx-pre_course/0x01-git/.gitignore"
 '2  1  0  /alx-pre_course/.gitignore
-|4,50,1,0,1685565583,"/alx-pre_course/.gitignore"
-'3  1  7  /alx-pre_course/0x01-git/up_to_date
-|4,51,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
-'4  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,52,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
-'5  4  7  /alx-pre_course/0x01-git/gitt
-|4,53,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
+|4,50,1,0,1685565761,"/alx-pre_course/.gitignore"
+'3  1  0  /alx-pre_course/.gitignore
+|4,51,1,0,1685565583,"/alx-pre_course/.gitignore"
+'4  1  7  /alx-pre_course/0x01-git/up_to_date
+|4,52,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
+'5  1  7  /alx-pre_course/0x01-git/bash/up_to_date
+|4,53,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
+'6  4  7  /alx-pre_course/0x01-git/gitt
+|4,54,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1686008768,"~/.git/MERGE_MSG"
+-'  1  1  /alx-pre_course/0x01-git/.gitignore
+|4,39,1,1,1685566072,"/alx-pre_course/0x01-git/.gitignore"
 -'  1  1  /alx-pre_course/0x01-git/.gitignore
 |4,39,1,1,1685566072,"/alx-pre_course/0x01-git/.gitignore"
 -'  1  0  /alx-pre_course/.gitignore
@@ -46,6 +52,14 @@
 -'  1  0  /alx-pre_course/.gitignore
 |4,39,1,0,1685565761,"/alx-pre_course/.gitignore"
 -'  1  0  /alx-pre_course/.gitignore
+|4,39,1,0,1685565761,"/alx-pre_course/.gitignore"
+-'  1  0  /alx-pre_course/.gitignore
+|4,39,1,0,1685565761,"/alx-pre_course/.gitignore"
+-'  1  0  /alx-pre_course/.gitignore
+|4,39,1,0,1685565583,"/alx-pre_course/.gitignore"
+-'  1  0  /alx-pre_course/.gitignore
+|4,39,1,0,1685565583,"/alx-pre_course/.gitignore"
+-'  1  0  /alx-pre_course/.gitignore
 |4,39,1,0,1685565583,"/alx-pre_course/.gitignore"
 -'  1  0  /alx-pre_course/.gitignore
 |4,39,1,0,1685565583,"/alx-pre_course/.gitignore"
@@ -65,6 +79,54 @@
 |4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
 -'  1  7  /alx-pre_course/0x01-git/up_to_date
 |4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
+-'  1  7  /alx-pre_course/0x01-git/up_to_date
+|4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
+-'  1  7  /alx-pre_course/0x01-git/up_to_date
+|4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
+-'  1  7  /alx-pre_course/0x01-git/up_to_date
+|4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
+-'  1  7  /alx-pre_course/0x01-git/up_to_date
+|4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
+-'  1  7  /alx-pre_course/0x01-git/up_to_date
+|4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
+-'  1  7  /alx-pre_course/0x01-git/up_to_date
+|4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
+-'  1  7  /alx-pre_course/0x01-git/up_to_date
+|4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
+-'  1  7  /alx-pre_course/0x01-git/up_to_date
+|4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
+-'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
+|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
+-'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
+|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
+-'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
+|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
+-'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
+|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
+-'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
+|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
+-'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
+|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
+-'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
+|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
+-'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
+|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
+-'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
+|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
+-'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
+|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
+-'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
+|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
+-'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
+|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
+-'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
+|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
+-'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
+|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
+-'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
+|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
+-'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
+|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
 -'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
 |4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
 -'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
@@ -161,72 +223,30 @@
 |4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
 -'  4  7  /alx-pre_course/0x01-git/gitt
 |4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
--'  1  0  /alx-pre_course/0x01-git/gitt
-|4,39,1,0,1685469442,"/alx-pre_course/0x01-git/gitt"
+-'  4  7  /alx-pre_course/0x01-git/gitt
+|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
+-'  4  7  /alx-pre_course/0x01-git/gitt
+|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
+-'  4  7  /alx-pre_course/0x01-git/gitt
+|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
+-'  4  7  /alx-pre_course/0x01-git/gitt
+|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
+-'  4  7  /alx-pre_course/0x01-git/gitt
+|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
+-'  4  7  /alx-pre_course/0x01-git/gitt
+|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
+-'  4  7  /alx-pre_course/0x01-git/gitt
+|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
+-'  4  7  /alx-pre_course/0x01-git/gitt
+|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
+-'  4  7  /alx-pre_course/0x01-git/gitt
+|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/MERGE_MSG
+	*	1686008760	0
+	"	1	0
 
 > /alx-pre_course/0x01-git/.gitignore
 	*	1685566066	0
