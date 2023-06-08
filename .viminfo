@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1686008768,,"wq!"
+|2,0,1686169758,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,224 +25,300 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/.git/MERGE_MSG
-|4,48,1,0,1686008768,"~/.git/MERGE_MSG"
-'1  1  1  /alx-pre_course/0x01-git/.gitignore
-|4,49,1,1,1685566072,"/alx-pre_course/0x01-git/.gitignore"
-'2  1  0  /alx-pre_course/.gitignore
-|4,50,1,0,1685565761,"/alx-pre_course/.gitignore"
-'3  1  0  /alx-pre_course/.gitignore
-|4,51,1,0,1685565583,"/alx-pre_course/.gitignore"
-'4  1  7  /alx-pre_course/0x01-git/up_to_date
-|4,52,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
-'5  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,53,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
-'6  4  7  /alx-pre_course/0x01-git/gitt
-|4,54,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
+'0  538  42  ~/alx-system_engineering-devops/0x00-shell_basics/README.md
+|4,48,538,42,1686169758,"~/alx-system_engineering-devops/0x00-shell_basics/README.md"
+'1  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_director
+|4,49,2,2,1686169576,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_director"
+'2  1  6  ~/0x01_emacs/saving
+|4,50,1,6,1686013768,"~/0x01_emacs/saving"
+'3  1  6  ~/0x01_emacs/opening
+|4,51,1,6,1686013739,"~/0x01_emacs/opening"
+'4  1  6  ~/0x01_emacs/quitting
+|4,52,1,6,1686013642,"~/0x01_emacs/quitting"
+'5  1  2  ~/0x01_emacs/undoing
+|4,53,1,2,1686013594,"~/0x01_emacs/undoing"
+'6  1  2  ~/0x01_emacs/searching
+|4,54,1,2,1686013542,"~/0x01_emacs/searching"
+'7  1  2  ~/0x01_emacs/pasting
+|4,55,1,2,1686013506,"~/0x01_emacs/pasting"
+'8  1  2  ~/0x01_emacs/cutting
+|4,56,1,2,1686013463,"~/0x01_emacs/cutting"
+'9  1  6  ~/0x01_emacs/saving
+|4,57,1,6,1686013423,"~/0x01_emacs/saving"
 
 # Jumplist (newest first):
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1686008768,"~/.git/MERGE_MSG"
--'  1  1  /alx-pre_course/0x01-git/.gitignore
-|4,39,1,1,1685566072,"/alx-pre_course/0x01-git/.gitignore"
--'  1  1  /alx-pre_course/0x01-git/.gitignore
-|4,39,1,1,1685566072,"/alx-pre_course/0x01-git/.gitignore"
--'  1  0  /alx-pre_course/.gitignore
-|4,39,1,0,1685565761,"/alx-pre_course/.gitignore"
--'  1  0  /alx-pre_course/.gitignore
-|4,39,1,0,1685565761,"/alx-pre_course/.gitignore"
--'  1  0  /alx-pre_course/.gitignore
-|4,39,1,0,1685565761,"/alx-pre_course/.gitignore"
--'  1  0  /alx-pre_course/.gitignore
-|4,39,1,0,1685565761,"/alx-pre_course/.gitignore"
--'  1  0  /alx-pre_course/.gitignore
-|4,39,1,0,1685565583,"/alx-pre_course/.gitignore"
--'  1  0  /alx-pre_course/.gitignore
-|4,39,1,0,1685565583,"/alx-pre_course/.gitignore"
--'  1  0  /alx-pre_course/.gitignore
-|4,39,1,0,1685565583,"/alx-pre_course/.gitignore"
--'  1  0  /alx-pre_course/.gitignore
-|4,39,1,0,1685565583,"/alx-pre_course/.gitignore"
--'  1  7  /alx-pre_course/0x01-git/up_to_date
-|4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/up_to_date
-|4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/up_to_date
-|4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/up_to_date
-|4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/up_to_date
-|4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/up_to_date
-|4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/up_to_date
-|4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/up_to_date
-|4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/up_to_date
-|4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/up_to_date
-|4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/up_to_date
-|4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/up_to_date
-|4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/up_to_date
-|4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/up_to_date
-|4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/up_to_date
-|4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/up_to_date
-|4,39,1,7,1685563580,"/alx-pre_course/0x01-git/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  1  7  /alx-pre_course/0x01-git/bash/up_to_date
-|4,39,1,7,1685563101,"/alx-pre_course/0x01-git/bash/up_to_date"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
--'  4  7  /alx-pre_course/0x01-git/gitt
-|4,39,4,7,1685469554,"/alx-pre_course/0x01-git/gitt"
+-'  538  42  ~/alx-system_engineering-devops/0x00-shell_basics/README.md
+|4,39,538,42,1686169758,"~/alx-system_engineering-devops/0x00-shell_basics/README.md"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/README.md
+|4,39,1,0,1686169731,"~/alx-system_engineering-devops/0x00-shell_basics/README.md"
+-'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_director
+|4,39,2,2,1686169576,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_director"
+-'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_director
+|4,39,2,2,1686169576,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_director"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_director
+|4,39,1,0,1686169544,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_director"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_director
+|4,39,1,0,1686169544,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_director"
+-'  1  6  ~/0x01_emacs/saving
+|4,39,1,6,1686013768,"~/0x01_emacs/saving"
+-'  1  6  ~/0x01_emacs/saving
+|4,39,1,6,1686013768,"~/0x01_emacs/saving"
+-'  1  6  ~/0x01_emacs/saving
+|4,39,1,6,1686013768,"~/0x01_emacs/saving"
+-'  1  6  ~/0x01_emacs/saving
+|4,39,1,6,1686013768,"~/0x01_emacs/saving"
+-'  1  6  ~/0x01_emacs/opening
+|4,39,1,6,1686013739,"~/0x01_emacs/opening"
+-'  1  6  ~/0x01_emacs/opening
+|4,39,1,6,1686013739,"~/0x01_emacs/opening"
+-'  1  6  ~/0x01_emacs/opening
+|4,39,1,6,1686013739,"~/0x01_emacs/opening"
+-'  1  6  ~/0x01_emacs/opening
+|4,39,1,6,1686013739,"~/0x01_emacs/opening"
+-'  1  6  ~/0x01_emacs/opening
+|4,39,1,6,1686013739,"~/0x01_emacs/opening"
+-'  1  6  ~/0x01_emacs/opening
+|4,39,1,6,1686013739,"~/0x01_emacs/opening"
+-'  1  6  ~/0x01_emacs/opening
+|4,39,1,6,1686013739,"~/0x01_emacs/opening"
+-'  1  6  ~/0x01_emacs/opening
+|4,39,1,6,1686013739,"~/0x01_emacs/opening"
+-'  2  0  ~/0x01_emacs/opening
+|4,39,2,0,1686013725,"~/0x01_emacs/opening"
+-'  2  0  ~/0x01_emacs/opening
+|4,39,2,0,1686013725,"~/0x01_emacs/opening"
+-'  2  0  ~/0x01_emacs/opening
+|4,39,2,0,1686013725,"~/0x01_emacs/opening"
+-'  2  0  ~/0x01_emacs/opening
+|4,39,2,0,1686013725,"~/0x01_emacs/opening"
+-'  2  0  ~/0x01_emacs/opening
+|4,39,2,0,1686013725,"~/0x01_emacs/opening"
+-'  2  0  ~/0x01_emacs/opening
+|4,39,2,0,1686013725,"~/0x01_emacs/opening"
+-'  2  0  ~/0x01_emacs/opening
+|4,39,2,0,1686013725,"~/0x01_emacs/opening"
+-'  2  0  ~/0x01_emacs/opening
+|4,39,2,0,1686013725,"~/0x01_emacs/opening"
+-'  1  6  ~/0x01_emacs/quitting
+|4,39,1,6,1686013642,"~/0x01_emacs/quitting"
+-'  1  6  ~/0x01_emacs/quitting
+|4,39,1,6,1686013642,"~/0x01_emacs/quitting"
+-'  1  6  ~/0x01_emacs/quitting
+|4,39,1,6,1686013642,"~/0x01_emacs/quitting"
+-'  1  6  ~/0x01_emacs/quitting
+|4,39,1,6,1686013642,"~/0x01_emacs/quitting"
+-'  1  6  ~/0x01_emacs/quitting
+|4,39,1,6,1686013642,"~/0x01_emacs/quitting"
+-'  1  6  ~/0x01_emacs/quitting
+|4,39,1,6,1686013642,"~/0x01_emacs/quitting"
+-'  1  6  ~/0x01_emacs/quitting
+|4,39,1,6,1686013642,"~/0x01_emacs/quitting"
+-'  1  6  ~/0x01_emacs/quitting
+|4,39,1,6,1686013642,"~/0x01_emacs/quitting"
+-'  1  6  ~/0x01_emacs/quitting
+|4,39,1,6,1686013642,"~/0x01_emacs/quitting"
+-'  1  6  ~/0x01_emacs/quitting
+|4,39,1,6,1686013642,"~/0x01_emacs/quitting"
+-'  1  6  ~/0x01_emacs/quitting
+|4,39,1,6,1686013642,"~/0x01_emacs/quitting"
+-'  1  6  ~/0x01_emacs/quitting
+|4,39,1,6,1686013642,"~/0x01_emacs/quitting"
+-'  1  6  ~/0x01_emacs/quitting
+|4,39,1,6,1686013642,"~/0x01_emacs/quitting"
+-'  1  6  ~/0x01_emacs/quitting
+|4,39,1,6,1686013642,"~/0x01_emacs/quitting"
+-'  1  6  ~/0x01_emacs/quitting
+|4,39,1,6,1686013642,"~/0x01_emacs/quitting"
+-'  1  6  ~/0x01_emacs/quitting
+|4,39,1,6,1686013642,"~/0x01_emacs/quitting"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/undoing
+|4,39,1,2,1686013594,"~/0x01_emacs/undoing"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
+-'  1  2  ~/0x01_emacs/searching
+|4,39,1,2,1686013542,"~/0x01_emacs/searching"
 
 # History of marks within files (newest to oldest):
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/README.md
+	*	1686169753	0
+	"	538	42
+	^	538	43
+	.	538	42
+	+	538	42
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_director
+	*	1686169570	0
+	"	2	2
+	^	2	3
+	.	2	2
+	+	2	2
+
+> ~/0x01_emacs/saving
+	*	1686013760	0
+	"	1	6
+	^	2	0
+	.	1	7
+	+	1	7
+
+> ~/0x01_emacs/opening
+	*	1686013732	0
+	"	1	6
+	^	2	0
+	.	1	7
+	+	1	7
+
+> ~/0x01_emacs/quitting
+	*	1686013636	0
+	"	1	6
+	^	1	7
+	.	2	0
+	+	2	0
+
+> ~/0x01_emacs/undoing
+	*	1686013588	0
+	"	1	2
+	^	1	3
+	.	2	0
+	+	2	0
+
+> ~/0x01_emacs/searching
+	*	1686013536	0
+	"	1	2
+	^	1	3
+	.	2	0
+	+	2	0
+
+> ~/0x01_emacs/pasting
+	*	1686013498	0
+	"	1	2
+	^	1	3
+	.	2	0
+	+	2	0
+
+> ~/0x01_emacs/cutting
+	*	1686013456	0
+	"	1	2
+	^	2	0
+	.	1	3
+	+	1	3
+
+> ~/0x01_emacs/README.md
+	*	1686010599	0
+	"	60	2
+	^	60	3
+	.	60	2
+	+	60	2
 
 > ~/.git/MERGE_MSG
 	*	1686008760	0
